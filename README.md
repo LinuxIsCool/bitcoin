@@ -1,7 +1,6 @@
 Bitcoin Core integration/staging tree
 =====================================
-
-https://bitcoincore.org
+longtailfinancial.com
 
 What is Buttcoin?
 ----------------
