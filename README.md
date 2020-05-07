@@ -1,4 +1,4 @@
-Bitcoin Core integration/staging tree
+Buttcoin Core integration/staging tree
 =====================================
 longtailfinancial.com
 
